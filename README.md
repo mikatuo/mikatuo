@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 📝 I write stuff at [mikatuo.com](https://mikatuo.com)
 - 🌱 I’m currently learning ... Flutter, Astro, Nvim
