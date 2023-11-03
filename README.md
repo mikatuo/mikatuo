@@ -2,7 +2,7 @@
 
 - 📝 I write stuff at [mikatuo.com](https://mikatuo.com)
 - 🌱 I’m currently learning ... Elixir, Astro, Flutter, Nvim
-- ⚡ Hobbies: ... ~~gaming~~, coding, reverse engineering, making productivity tools (aka "automate what you hate"), refactoring
+- ⚡ Hobbies: ... ~~gaming~~, coding, reverse engineering, making productivity tools
 
 <!--
 **mikatuo/mikatuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
