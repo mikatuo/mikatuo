@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - 📝 I write stuff at [mikatuo.com](https://mikatuo.com)
-- 🌱 I’m currently learning ... Phoenix Framework, Astro, Flutter, Nvim
+- 🌱 I’m currently learning ... Elixir, Astro, Flutter, Nvim
 - ⚡ Hobbies: ... ~~gaming~~, coding, reverse engineering, making productivity tools (aka "automate what you hate"), refactoring
 
 <!--
