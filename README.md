@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - 📝 I write stuff at [mikatuo.com](https://mikatuo.com)
-- 🌱 I’m currently learning ... Elixir, Astro, Svelte, Solid JS
+- 🌱 I’m currently learning ... Rust, Svelte, Elixir
 - ⚡ Hobbies: ... ~~gaming~~, coding, reverse engineering, making productivity tools
 
 <!--
