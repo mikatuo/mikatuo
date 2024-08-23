@@ -1,8 +1,8 @@
 ### Hello 👋
 
 - 📝 I write stuff at [mikatuo.com](https://mikatuo.com)
-- 🌱 I’m currently learning ... Rust, Svelte, Elixir
-- ⚡ Hobbies: ... ~~gaming~~, coding, reverse engineering, making productivity tools
+- 🌱 I’m currently learning ... Rust, Svelte
+- 😄 I enjoy: ... ~~gaming~~, coding, reverse engineering, making productivity tools, [typing](https://monkeytype.com/profile/mikatuo)
 
 <!--
 **mikatuo/mikatuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
